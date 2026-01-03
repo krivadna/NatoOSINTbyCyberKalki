@@ -24,6 +24,8 @@ This repo contains publicly available OSINT (Open Source Intelligence) data rela
 - hqvpn1.hq.nato.int
 - hqvpn2.hq.nato.int
 
+![NATO OSINT Screenshot](https://i.imgur.com/xVGHzVZ.jpeg)
+
 ### 🔹 185.45.55.17
 - **Associated URL:** http://vpn.jftc.nato.int
 
