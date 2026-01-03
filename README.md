@@ -1,13 +1,14 @@
 # NatoOSINTbyCyberKalki
 
 
-## 🔥 CYBER KALKI | GOVT • MILITARY • INTEL EXPOSURE SPECIALIST 👁️
-
-**⚠️ PLATFORM CENSORSHIP ALERT:** Research suppressed on Intigriti, YesWeHack, Medium, and HackerOne
-
 ![NATO OSINT Banner](https://github.com/krivadna/NatoOSINTbyCyberKalki/blob/main/banner.svg)
 
 <img src="https://komarev.com/ghpvc/?username=krivadna&color=blue&style=for-the-badge&label=VISITORS" alt="Visitor Count"/>
+
+
+## 🔥 CYBER KALKI | GOVT • MILITARY • INTEL EXPOSURE SPECIALIST 👁️
+
+**⚠️ Research suppressed and banned on Intigriti, YesWeHack, Medium, and HackerOne
 
 ## 📋 Overview
 This repo contains publicly available OSINT (Open Source Intelligence) data related to NATO infrastructure and digital assets.
