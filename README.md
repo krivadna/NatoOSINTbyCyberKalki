@@ -1,5 +1,10 @@
 # NatoOSINTbyCyberKalki
 
+
+## 🔥 CYBER KALKI | GOVT • MILITARY • INTEL EXPOSURE SPECIALIST 👁️
+
+**⚠️ PLATFORM CENSORSHIP ALERT:** Research suppressed on Intigriti, YesWeHack, Medium, and HackerOne
+
 ![NATO OSINT Banner](https://github.com/krivadna/NatoOSINTbyCyberKalki/blob/main/banner.svg)
 
 <img src="https://komarev.com/ghpvc/?username=krivadna&color=blue&style=for-the-badge&label=VISITORS" alt="Visitor Count"/>
