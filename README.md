@@ -287,12 +287,23 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 
 ---
 
-**⭐ Star this repo if you found it useful!**
-
 
 ## ⭐ Show your support
 
 [![Support Project](https://img.shields.io/badge/Support_This_Project-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/kalkikrivadna)
+
+<div align="center">
+
+## 🌟 STAR THIS REPOSITORY 🌟
+
+<a href="https://github.com/krivadna/NatoOSINTbyCyberKalki">
+  <img src="https://img.shields.io/github/stars/krivadna/NatoOSINTbyCyberKalki?style=for-the-badge&logo=starship&logoColor=white&label=CLICK%20TO%20STAR&labelColor=D4AF37&color=FFD700" alt="Star this repository" width="300"/>
+</a>
+
+
+**⭐ Click the button above or press the ⭐ at the top of this page**
+
+</div>
 
 
 <div align="center">
