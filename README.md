@@ -2,6 +2,8 @@
 
 ![NATO OSINT Banner](https://github.com/krivadna/NatoOSINTbyCyberKalki/blob/main/banner.svg)
 
+<img src="https://komarev.com/ghpvc/?username=krivadna&color=blue&style=for-the-badge&label=VISITORS" alt="Visitor Count"/>
+
 ## 📋 Overview
 This repo contains publicly available OSINT (Open Source Intelligence) data related to NATO infrastructure and digital assets.
 
