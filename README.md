@@ -1,6 +1,12 @@
 # NatoOSINTbyCyberKalki  | GOVT • MILITARY • INTEL EXPOSURE SPECIALIST 👁️
 
-⚠️ Research suppressed and banned on Intigriti, YesWeHack, Medium, and HackerOne
+### 🚫 Research Suppressed & Banned On:
+
+![Intigriti](https://img.shields.io/badge/Intigriti-BANNED-red?style=for-the-badge)
+![YesWeHack](https://img.shields.io/badge/YesWeHack-BANNED-red?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-SUPPRESSED-red?style=for-the-badge)
+![HackerOne](https://img.shields.io/badge/HackerOne-BANNED-red?style=for-the-badge)
+
 
 
 ![NATO OSINT Banner](https://github.com/krivadna/NatoOSINTbyCyberKalki/blob/main/banner.svg)
