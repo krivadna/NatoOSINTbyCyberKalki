@@ -1,7 +1,5 @@
 # NatoOSINTbyCyberKalki
 
-# NATO OSINT Collection
-
 ## 📋 Overview
 This document contains publicly available OSINT (Open Source Intelligence) data related to NATO infrastructure and digital assets.
 
