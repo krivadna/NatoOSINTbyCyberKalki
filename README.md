@@ -1,6 +1,6 @@
 # NatoOSINTbyCyberKalki  | GOVT • MILITARY • INTEL EXPOSURE SPECIALIST 👁️
 
-### 🚫 Research Suppressed & Banned On:
+### 🚫 Research Suppressed & Banned from:
 
 ![Intigriti](https://img.shields.io/badge/Intigriti-BANNED-red?style=for-the-badge)
 ![YesWeHack](https://img.shields.io/badge/YesWeHack-BANNED-red?style=for-the-badge)
