@@ -16,6 +16,8 @@ This repo contains publicly available OSINT (Open Source Intelligence) data rela
 - **Page Title:** NATO - Homepage
 - **Open Ports:** 80 ✅
 
+![NATO OSINT Screenshot](https://i.imgur.com/Gk45nYF.jpeg)
+
 ### 🔹 185.45.52.158
 - Additional NATO infrastructure IP
 
