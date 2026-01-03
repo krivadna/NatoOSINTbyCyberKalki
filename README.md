@@ -255,6 +255,5 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 *Comprehensive Digital Infrastructure Intelligence Exposure | Government • Military • Intel*
 
 ---
-**📅 Last Updated:** January 2026  
-**👤 Compiled by:** OSINT Research Team  
+
 **⭐ Star this repo if you found it useful!**
