@@ -8,8 +8,7 @@ GOVT • MILITARY • INTEL EXPOSURE SPECIALIST 👁️
 ![NATO OSINT Banner](https://github.com/krivadna/NatoOSINTbyCyberKalki/blob/main/banner.svg)
 
 
-<img src="https://komarev.com/ghpvc/?username=krivadna&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/> 
-
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=krivadna&repo=NatoOSINTbyCyberKalki&countColor=%23263759)
 
 ## 📋 Overview
 This repo contains publicly available OSINT (Open Source Intelligence) data related to NATO infrastructure and digital assets.
