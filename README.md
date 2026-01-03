@@ -263,3 +263,19 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 ---
 
 **⭐ Star this repo if you found it useful!**
+
+
+## ⭐ Show your support
+
+[![Support Project](https://img.shields.io/badge/Support_This_Project-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/kalkikrivadna)
+
+
+<div align="center">
+  <sub>Built with ❤️ by Cyber Kalki</sub>
+</div>
+
+<!-- Custom Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
+</p>
+
