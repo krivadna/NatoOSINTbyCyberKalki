@@ -1,6 +1,4 @@
-# NatoOSINTbyCyberKalki 
-
-GOVT • MILITARY • INTEL EXPOSURE SPECIALIST 👁️
+# NatoOSINTbyCyberKalki  | GOVT • MILITARY • INTEL EXPOSURE SPECIALIST 👁️
 
 ⚠️ Research suppressed and banned on Intigriti, YesWeHack, Medium, and HackerOne
 
@@ -250,6 +248,13 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 
 ---
 
+[![Medium Article](https://img.shields.io/badge/Medium-Read%20Article-black?style=for-the-badge&logo=medium)](https://medium.com/@elelyonmusk/nato-osint-by-cyber-kalki-biggest-info-expose-including-origin-ip-451a278dfde6)
+
+**[NATO OSINT by CYBER KALKI - BIGGEST INFO EXPOSE INCLUDING ORIGIN IP](https://medium.com/@elelyonmusk/nato-osint-by-cyber-kalki-biggest-info-expose-including-origin-ip-451a278dfde6)**
+
+*Comprehensive Digital Infrastructure Intelligence Exposure | Government • Military • Intel*
+
+---
 **📅 Last Updated:** January 2026  
 **👤 Compiled by:** OSINT Research Team  
 **⭐ Star this repo if you found it useful!**
