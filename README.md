@@ -1,18 +1,43 @@
 # NatoOSINTbyCyberKalki  | GOVT • MILITARY • INTEL EXPOSURE SPECIALIST 👁️
 
-### 🚫 Research Suppressed & Banned from:
-
-![Intigriti](https://img.shields.io/badge/Intigriti-BANNED-red?style=for-the-badge)
-![YesWeHack](https://img.shields.io/badge/YesWeHack-BANNED-red?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-SUPPRESSED-red?style=for-the-badge)
-![HackerOne](https://img.shields.io/badge/HackerOne-BANNED-red?style=for-the-badge)
-
 
 
 ![NATO OSINT Banner](https://github.com/krivadna/NatoOSINTbyCyberKalki/blob/main/banner.svg)
 
 
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=krivadna&repo=NatoOSINTbyCyberKalki&countColor=%23263759)
+
+<div align="center">
+
+## ⚠️ PLATFORM CENSORSHIP ALERT ⚠️
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Intigriti-BANNED-critical?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0xMiA5VjEzIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxNyIgcj0iMSIgZmlsbD0id2hpdGUiLz4KPC9zdmc+" alt="Intigriti Banned"/>
+<br/><b>BANNED</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/YesWeHack-BANNED-critical?style=for-the-badge&logo=hackaday&logoColor=white" alt="YesWeHack Banned"/>
+<br/><b>BANNED</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Medium-SUPPRESSED-critical?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Suppressed"/>
+<br/><b>SUPPRESSED</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/HackerOne-BANNED-critical?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Banned"/>
+<br/><b>BANNED</b>
+</td>
+</tr>
+</table>
+
+**📛 Profile suspended/shadow-banned | 📄 Reports erased | 🔇 Truth suppressed**
+
+*"Rogue networks suppressing truth-tellers exposing elite vulnerabilities"*
+
+</div>
+
 
 ## 📋 Overview
 This repo contains publicly available OSINT (Open Source Intelligence) data related to NATO infrastructure and digital assets.
