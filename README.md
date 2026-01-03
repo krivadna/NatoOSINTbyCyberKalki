@@ -294,17 +294,12 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 
 <div align="center">
 
-<div align="center">
 
 ### ⭐ Star This Repository
 
 **If you find this OSINT collection valuable, please star this repository!**
 
 [![Star this repo](https://img.shields.io/github/stars/krivadna/NatoOSINTbyCyberKalki?style=social)](https://github.com/krivadna/NatoOSINTbyCyberKalki/stargazers)
-
-**Your support helps preserve truth and fight platform censorship.**
-
-</div>
 
 
 <div align="center">
