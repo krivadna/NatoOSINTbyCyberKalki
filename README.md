@@ -292,7 +292,6 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 
 [![Support Project](https://img.shields.io/badge/Support_This_Project-Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/kalkikrivadna)
 
-<div align="center">
 
 
 ### ⭐ Star This Repository
