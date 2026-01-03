@@ -1,6 +1,8 @@
-# NatoOSINTbyCyberKalki | GOVT • MILITARY • INTEL EXPOSURE SPECIALIST 👁️
+# NatoOSINTbyCyberKalki 
 
-**⚠️ Research suppressed and banned on Intigriti, YesWeHack, Medium, and HackerOne
+GOVT • MILITARY • INTEL EXPOSURE SPECIALIST 👁️
+
+⚠️ Research suppressed and banned on Intigriti, YesWeHack, Medium, and HackerOne
 
 
 ![NATO OSINT Banner](https://github.com/krivadna/NatoOSINTbyCyberKalki/blob/main/banner.svg)
@@ -203,6 +205,9 @@ This repo contains publicly available OSINT (Open Source Intelligence) data rela
 #### 📂 Example URLs
 ```
 https://psb4ukr.natocdn.net/criminals/14/48/c1/0Хисматуллин-Наиль-Нигаматуллович.pdf
+https://psb4ukr.natocdn.net/files/7901journalists.rar                           https://psb4ukr.natocdn.net/files/crimea-16032015-cp1251.zip                    https://psb4ukr.natocdn.net/files/crimea-16032015-utf8.zip
+https://psb4ukr.natocdn.net/files/russia-16032015-cp1251.zip
+https://psb4ukr.natocdn.net/files/russia-16032015-utf8.zip                     https://psb4ukr.natocdn.net/files/RUSSIaN_AGRESSION.rar
 https://psb4ukr.natocdn.net/criminals/1b/2c/10/psb-archive-1780752.zip
 https://psb4ukr.natocdn.net/soft/peacemaker.apk
 ```
@@ -210,7 +215,7 @@ https://psb4ukr.natocdn.net/soft/peacemaker.apk
 #### 📁 Directory Structure
 - 📂 `/criminals/` - Database entries and archives
 - 📂 `/soft/` - Software applications
-
+- 📂 `/files/` - Files
 ---
 
 ## 🔍 Enumeration Notes
