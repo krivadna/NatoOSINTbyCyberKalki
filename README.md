@@ -1,5 +1,7 @@
 # NatoOSINTbyCyberKalki
 
+![NATO OSINT Banner](https://github.com/krivadna/NatoOSINTbyCyberKalki/blob/main/banner.svg)
+
 ## 📋 Overview
 This document contains publicly available OSINT (Open Source Intelligence) data related to NATO infrastructure and digital assets.
 
