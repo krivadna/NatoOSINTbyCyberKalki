@@ -8,8 +8,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=krivadna&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/> 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrivadna%2FNatoOSINTbyCyberKalki&count_bg=%23003366&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=REPO+HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 ## 📋 Overview
 This repo contains publicly available OSINT (Open Source Intelligence) data related to NATO infrastructure and digital assets.
