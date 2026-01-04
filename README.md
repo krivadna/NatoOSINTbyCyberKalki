@@ -286,51 +286,55 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 *Comprehensive Digital Infrastructure Intelligence Exposure | Government • Military • Intel*
 
 ---
-
-## 🛠️ More Tools by CyberKalki
+## 🚀 More CyberKalki Tools
 
 <div align="center">
 
+### Explore My Other OSINT Projects
+
+</div>
+
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-### 🤖 OSINT Telegram Bot
+#### 🤖 OSINT Telegram Bot
 
-<a href="https://t.me/Osintbykalki_bot">
-  <img src="https://img.shields.io/badge/Launch-Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1c1c1c" alt="Telegram Bot" height="50"/>
-</a>
+[![Open Bot](https://img.shields.io/badge/Launch_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Osintbykalki_bot)
 
-**Instant OSINT Intelligence**
+**Your personal OSINT assistant on Telegram**
 
-✅ Real-time reconnaissance  
-✅ Automated data gathering  
-✅ Easy-to-use interface  
+**Features:**
+- 🔍 Real-time intelligence gathering
+- 🌐 Domain & IP reconnaissance
+- 📧 Email OSINT lookups
+- 🕵️ Social media tracking
+- ⚡ Instant results
 
-**🚀 Try it now:** https://t.me/Osintbykalki_bot
+**👉 [Start Using the Bot](https://t.me/Osintbykalki_bot)**
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-### 📍 Digital Footprint Tracker
+#### 📍 Digital Footprint Tracker
 
-<a href="https://github.com/krivadna/GrabifyIploggerwithvpnandlocation">
-  <img src="https://img.shields.io/badge/View-GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c1c" alt="GitHub Repo" height="50"/>
-</a>
+[![View Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krivadna/GrabifyIploggerwithvpnandlocation)
 
-**IP Logger + VPN Detection**
+**Advanced IP logging with VPN detection**
 
-✅ Track IP addresses  
-✅ Detect VPN/Proxy usage  
-✅ Geolocation mapping  
+**Features:**
+- 🌍 Geolocation mapping
+- 🔐 VPN/Proxy detection
+- 📊 Visitor analytics
+- 🎯 Link tracking
+- 💾 Data logging
 
-**🔍 Check it out:** https://github.com/krivadna/GrabifyIploggerwithvpnandlocation
+**👉 [Check the Repository](https://github.com/krivadna/GrabifyIploggerwithvpnandlocation)**
 
 </td>
 </tr>
 </table>
 
-</div>
 
 ## ⭐ Show your support
 
