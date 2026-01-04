@@ -9,7 +9,7 @@
 
 <div align="center">
 
-## ⚠️ PLATFORM CENSORSHIP ALERT ⚠️
+## ⚠️ PLATFORM THAT CENSORED ME  ⚠️
 
 <table>
 <tr>
