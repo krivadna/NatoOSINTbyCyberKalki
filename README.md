@@ -81,8 +81,7 @@ This repo contains publicly available OSINT (Open Source Intelligence) data rela
 | AS8220 | Associated with natocdn.net forwarding |
 | AS198946 | Associated with natocdn.net forwarding |
 
----
-
+![NATO OSINT Screenshot](https://ibb.co/k2rZj87q)
 ## 🔒 SSL/TLS Certificate Information
 
 **Certificate Authority:** GlobalSign RSA OV SSL CA 2018  
