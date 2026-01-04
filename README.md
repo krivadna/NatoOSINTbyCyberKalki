@@ -226,7 +226,7 @@ This repo contains publicly available OSINT (Open Source Intelligence) data rela
 - **Registration:** 2019 📅
 - **Resolution:** Resolves to 152.152.31.120 in some records
 
-### 🇺🇦 psb4ukr.natocdn.net Subdomain
+### 🇺🇦 psb4ukr.natocdn.net Subdomain Ukrainian "Kill List" hosted on NATO servers!!
 
 **Purpose:** Hosts public files (PDFs, ZIPs, APKs) associated with the Ukrainian Myrotvorets ("Peacemaker") database
 
