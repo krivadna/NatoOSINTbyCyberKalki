@@ -285,55 +285,50 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 
 *Comprehensive Digital Infrastructure Intelligence Exposure | Government • Military • Intel*
 
----
-## 🚀 More CyberKalki Tools
+## 🛠️ More Tools by CyberKalki
 
 <div align="center">
-
-### Explore My Other OSINT Projects
-
-</div>
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-#### 🤖 OSINT Telegram Bot
+### 🤖 OSINT Telegram Bot
 
-[![Open Bot](https://img.shields.io/badge/Launch_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Osintbykalki_bot)
+<a href="https://t.me/Osintbykalki_bot">
+  <img src="https://img.shields.io/badge/Launch-Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1c1c1c" alt="Telegram Bot" height="50"/>
+</a>
 
-**Your personal OSINT assistant on Telegram**
+**Instant OSINT Intelligence**
 
-**Features:**
-- 🔍 Real-time intelligence gathering
-- 🌐 Domain & IP reconnaissance
-- 📧 Email OSINT lookups
-- 🕵️ Social media tracking
-- ⚡ Instant results
+✅ Real-time reconnaissance  
+✅ Automated data gathering  
+✅ Easy-to-use interface  
 
-**👉 [Start Using the Bot](https://t.me/Osintbykalki_bot)**
+[**🚀 Try it now**](https://t.me/Osintbykalki_bot)
 
 </td>
 <td width="50%" align="center">
 
-#### 📍 Digital Footprint Tracker
+### 📍 Digital Footprint Tracker
 
-[![View Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krivadna/GrabifyIploggerwithvpnandlocation)
+<a href="https://github.com/krivadna/GrabifyIploggerwithvpnandlocation">
+  <img src="https://img.shields.io/badge/View-GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c1c" alt="GitHub Repo" height="50"/>
+</a>
 
-**Advanced IP logging with VPN detection**
+**IP Logger + VPN Detection**
 
-**Features:**
-- 🌍 Geolocation mapping
-- 🔐 VPN/Proxy detection
-- 📊 Visitor analytics
-- 🎯 Link tracking
-- 💾 Data logging
+✅ Track IP addresses  
+✅ Detect VPN/Proxy usage  
+✅ Geolocation mapping  
 
-**👉 [Check the Repository](https://github.com/krivadna/GrabifyIploggerwithvpnandlocation)**
+[**🔍 Check it out**](https://github.com/krivadna/GrabifyIploggerwithvpnandlocation)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 
 ## ⭐ Show your support
