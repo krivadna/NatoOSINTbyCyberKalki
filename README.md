@@ -287,6 +287,50 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 
 ---
 
+## 🛠️ More Tools by CyberKalki
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🤖 OSINT Telegram Bot
+
+<a href="https://t.me/Osintbykalki_bot">
+  <img src="https://img.shields.io/badge/Launch-Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1c1c1c" alt="Telegram Bot" height="50"/>
+</a>
+
+**Instant OSINT Intelligence**
+
+✅ Real-time reconnaissance  
+✅ Automated data gathering  
+✅ Easy-to-use interface  
+
+[**🚀 Try it now**](https://t.me/Osintbykalki_bot)
+
+</td>
+<td width="50%" align="center">
+
+### 📍 Digital Footprint Tracker
+
+<a href="https://github.com/krivadna/GrabifyIploggerwithvpnandlocation">
+  <img src="https://img.shields.io/badge/View-GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1c1c" alt="GitHub Repo" height="50"/>
+</a>
+
+**IP Logger + VPN Detection**
+
+✅ Track IP addresses  
+✅ Detect VPN/Proxy usage  
+✅ Geolocation mapping  
+
+[**🔍 Check it out**](https://github.com/krivadna/GrabifyIploggerwithvpnandlocation)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## ⭐ Show your support
 
