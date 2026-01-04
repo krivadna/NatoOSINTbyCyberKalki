@@ -295,7 +295,7 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 <tr>
 <td width="50%" align="center">
 
-## 🤖 OSINT Telegram Bot
+### 🤖 OSINT Telegram Bot
 
 <a href="https://t.me/Osintbykalki_bot">
   <img src="https://img.shields.io/badge/Launch-Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1c1c1c" alt="Telegram Bot" height="50"/>
@@ -307,7 +307,7 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 ✅ Automated data gathering  
 ✅ Easy-to-use interface  
 
-[**🚀 Try it now**](https://t.me/Osintbykalki_bot)
+**🚀 Try it now:** https://t.me/Osintbykalki_bot
 
 </td>
 <td width="50%" align="center">
@@ -324,7 +324,7 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 ✅ Detect VPN/Proxy usage  
 ✅ Geolocation mapping  
 
-[**🔍 Check it out**](https://github.com/krivadna/GrabifyIploggerwithvpnandlocation)
+**🔍 Check it out:** https://github.com/krivadna/GrabifyIploggerwithvpnandlocation
 
 </td>
 </tr>
