@@ -296,7 +296,7 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 #### 🤖 OSINT Telegram Bot
 
@@ -314,7 +314,7 @@ Running `gau https://psb4ukr.natocdn.net/` would enumerate additional public URL
 **👉 [Start Using the Bot](https://t.me/Osintbykalki_bot)**
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 #### 📍 Digital Footprint Tracker
 
